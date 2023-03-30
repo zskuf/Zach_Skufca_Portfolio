@@ -2,4 +2,4 @@
 My first portfolio!
 
 ## My First Project: Applie Pie
-### Simple word guessing game on IOS
+Simple word guessing game on IOS
