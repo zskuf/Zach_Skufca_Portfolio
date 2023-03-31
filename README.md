@@ -1,7 +1,7 @@
 # Zach_Skufca_Portfolio
 My first portfolio!
 
-Bio(https://github.com/zskuf/Zach_Skufca_Portfolio/blob/main/README2.md)
+## Bio(https://github.com/zskuf/Zach_Skufca_Portfolio/blob/main/README2.md)
 
 ## [My First Project: Applie Pie](https://github.com/zskuf/Apple-Pie)
 Simple word guessing game on IOS
